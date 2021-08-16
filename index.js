@@ -1,12 +1,3 @@
-/*漢字の入った名言を問題にしたい。その下にアルファベット表記を入れる*/
-//漢字問題
-//kannzimonndai
-//この2つをセットのデータにしてアルファベット表記にだけ判定を付ける
-//const problem = ('漢字','kannzi');
-//次回、上記をwordsに入れられる様に新しくコピーして作り直す
-
-
-
 const words = [
   'document.getElementById',
   'const',
